@@ -7,12 +7,11 @@ login = os.getenv("EMAIL_LOGIN")
 senha = os.getenv("EMAIL_SENHA")
 
 remitentes = [
-    'sp.tatuape@parceiro-kroton.com.br',
-    'faturaporemailsp@brasil.enel.com',
-    'noreply.atendimentoenel@brasil.enel.com'
+    'exemplodo@gmail.com',
+    'seuremitente@gmail.com'
 ]
 
 assuntos_boletos = [
-    'Universidade Anhanguera - Boleto Mensalidade',
-    'Imóvel 894225111 - Fatura com vencimento em '
-]
+    'o assunto do seu boleto',
+    'assunto do seu outro boleto'
+    ]
